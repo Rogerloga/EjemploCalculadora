@@ -39,6 +39,7 @@ public class Main {
         
         System.out.println("La suma es " + Casio1.suma());
         System.out.println("La resta es " + Casio1.resta());
+        System.out.println("El módulo es " + Casio1.modulo());
     }
 
 }
