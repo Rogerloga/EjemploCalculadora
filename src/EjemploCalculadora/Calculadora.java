@@ -53,7 +53,7 @@ public class Calculadora {
        return (this.num1 / this.num2);
     }
 
-/*
+
 // GETTERS & SETTERS
 
     public double getNum1 (){
@@ -80,7 +80,7 @@ public class Calculadora {
     }
     public void setModelo( String modelo){
         this.modelo=modelo;
-    }*/
+    }
 }
 
 
